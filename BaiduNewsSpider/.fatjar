@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Jan 06 16:14:23 CST 2017
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=BaiduNewsSpider.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|BaiduNewsSpider>~.DS_Store;<jar|jsoup-1.8.1.jar>;<jar|log4j-1.2.17.jar>;<jar|octopus_builder-1.0.1.jar>;<jar|octopus_common-1.0.1.jar>;<jar|octopus_crawler-1.0.1.jar>;<jar|octopus_writter-1.0.1.jar>;<jar|slf4j-api-1.7.2.jar>;<jar|slf4j-log4j12-1.7.12.jar>
+includes=
